@@ -1,0 +1,256 @@
+■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■   USERS INFO   ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+
+			Character :              iJulian :    Sigel Hell Knight
+			Clan Name :            DeathWish :           1611661656
+			Zone Name :       Faeron Village :                  542 
+■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■  PLAYERS INFO  ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+
+                             HID3 :                      :                    0  
+                        arturiouS :               Dreams :           1611661969  
+                           Keagan :               Africa :           1611661312  
+                           iSplat :                 BOSS :           1611661801  
+                            Fraux :               7sinns :           1611663747  
+                    Cannabisheals :                Detox :           1611662886  
+                      AbsoluteDuo :         BloodRedFury :           1611663905  
+                        MaraRiver :            DeathWish :           1611661656  
+                        ncpaulson :               Enmity :           1611661402  
+                        TemidusJR :               Africa :           1611661312  
+                   UtherPendragon :            DeathWish :           1611661656  
+                      TonsilBoxer :                      :                    0  
+                          IssLord :            DeathWish :           1611661656  
+                       iBoomerang :        SerialKillerz :           1611661327  
+                            Oggul :             Sunshine :           1611662310  
+                           aiolus :       DarknessReborn :           1611662275  
+                          iMuppet :               Africa :           1611661312  
+                            SuiSe :        KoreanFriends :           1611661384  
+                      MinnieAshie :           Rackafratz :           1611662957  
+                      SmellyEllie :          ServerMafia :           1611663579  
+                            WCLOL :              CLANLOL :           1611662983  
+                         OneTrade :             LionsDen :           1611662015  
+                     TinyChiquita :                      :                    0  
+                           Neddah :                      :                    0  
+                        LoveGame2 :                      :                    0  
+                          KenShun :                      :                    0  
+                           Hedwig :            AngryInch :           1611662589  
+                      ProjectZero :       DarknessReborn :           1611662275  
+■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■  SKILL INFO A  ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+
+                                         Aura Resistance :                10034  
+                                        Avenger's Frenzy :                10099  
+                             Build Advanced Headquarters :                  326  
+                                            Chain Galaxy :                10014  
+                                             Chain Hydra :                10016  
+                                            Chain Strike :                10015  
+                                          Challenge Aura :                10030  
+                                           Clan Boundary :                19016  
+                                             Clan Summon :                19007  
+                                            Common Craft :                 1322  
+                                         Dual Maximum HP :                 1986  
+                                        Einhasad's Wrath :                13563  
+                                               Endurance :                 1920  
+                                  Final Ultimate Defense :                10017  
+                                            Focus Shield :                10020  
+                                              Gust Blade :                10013  
+                                            Ignore Death :                10022  
+                                               Iron Aura :                10032  
+                                      Justice Punishment :                10010  
+                                          King of Beasts :                10023  
+                                           Last Judgment :                10009  
+                                         Noble Sacrifice :                10018  
+                                       Noblesse Blessing :                 1323  
+                                        Noblesse Harmony :                 1326  
+                                       Noblesse Symphony :                 1327  
+                                            Party Rescue :                10024  
+                                     Protection of Faith :                10019  
+                                               Rage Aura :                10028  
+                                           Recovery Aura :                10036  
+                       Release Agathion's Seal - Rudolph :                21245  
+                                           Seal Agathion :                 3267  
+                                           Shield Charge :                10008  
+                                           Shield Impact :                10011  
+                                             Shield Wave :                10012  
+                                              Sigel Aura :                 1927  
+                                            Spike Shield :                10021  
+                                             Spirit Aura :                10038  
+                                   Strider Siege Assault :                  325  
+                                    Summon Blood Panther :                10068  
+                                        Summon CP Potion :                 1324  
+                                      Summon Golden Lion :                10040  
+                                     Summon Knight Cubic :                10043  
+                                      Summon Royal Aegis :                 8600  
+                                     Superior Aggression :                10026  
+                                Superior Aggression Aura :                10027  
+                                           True Vanguard :                10244  
+                                            Wyvern Aegis :                  327  
+■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■  SKILL INFO P  ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+
+                                                     Aim :                 1901 
+                                    Aria's Bracelet: STR :                13588 
+                                            Clan Agility :                  381 
+                                               Clan Body :                  370 
+                                            Clan Clarity :                  375 
+                                Clan Cyclonic Resistance :                  384 
+                                    Clan De-Buff Control :                19004 
+                                            Clan Empower :                  378 
+                                           Clan Guidance :                  380 
+                                    Clan Hold Resistance :                  387 
+                                           Clan Imperium :                  391 
+                                               Clan Luck :                  390 
+                                            Clan M. Def. :                  379 
+                                Clan Magmatic Resistance :                  385 
+                                     Clan Mental Control :                19006 
+                                              Clan Might :                  376 
+                                             Clan Morale :                  374 
+                                     Clan Muzzle Control :                19005 
+                                       Clan Regeneration :                  373 
+                                         Clan Resilience :                19110 
+                                    Clan Resistance Hall :                19003 
+                                             Clan Shield :                  377 
+                                       Clan Shield Block :                  383 
+                                     Clan Shield Defense :                  382 
+                                   Clan Sleep Resistance :                  388 
+                                               Clan Soul :                  372 
+                                       Clan Spirituality :                  371 
+                                      Clan Steadfastness :                19111 
+                                    Clan Stun Resistance :                  386 
+                                          Clan Wind Walk :                  389 
+                                      Create Common Item :                 1320 
+                                             Crystallize :                  248 
+                                         Dark Resistance :                13057 
+                                              Dark Squad :                  616 
+                                                 Diamond :                17708 
+                                      Divine Inspiration :                 1405 
+                                    Dual - Master's Rage :                 1976 
+                         Dual - P. Atk./M. Atk. Increase :                 1962 
+                                             Earth Squad :                  614 
+                                                 Emerald :                17825 
+                   Enchant Effect: Shiny Elemental Shirt :                13562 
+                   Enchant Heavy Armor Set + 6 (R-grade) :                13339 
+                      Enhanced Istina' Earring (Warrior) :                13531 
+                        Enhanced Octavis' Ring (Warrior) :                13527 
+                                            Equip Shield :                 8784 
+                                           Expertise R99 :                  239 
+                                              Fire Squad :                  611 
+                                    Frintezza's Necklace :                 3604 
+                         Heavy Armor Top Special Ability :                13310 
+                                              Holy Squad :                  615 
+                                      Inventory Increase :                 1571 
+                       La Vie En Rose's Brilliant Brooch :                13658 
+                       La Vie En Rose's Brilliant Brooch :                13661 
+                                           Last Patience :                10006 
+                                                   Lucky :                  194 
+                                         Mental Fortress :                 1902 
+                        One-handed Sword Special Ability :                13252 
+                                                    Opal :                17705 
+                                         Party Mask: STR :                17407 
+                                                   Pearl :                17709 
+                                        Queen Ant's Ring :                 3562 
+  Set Effect - Eternal Heavy Armor 5 Piece (Attack Type) :                13071 
+                                 Special Ability: Health :                 3013 
+           Special Talisman (R99-grade) - Shield Defense :                 8697 
+                                       Spirit of Revenge :                10066 
+                   Sub - Atk. Spd./Casting Spd. Increase :                 1958 
+                            Sub - Critical Rate Increase :                 1959 
+                          Sub - P. Atk./M. Atk. Increase :                 1956 
+                              Superior Elemental Mastery :                10044 
+                            Superior Heavy Armor Mastery :                10002 
+                                        Superior M. Def. :                10004 
+                       Superior Mental Attack Resistance :                10005 
+                                 Superior Shield Mastery :                10003 
+                     Superior Sword/Blunt Weapon Mastery :                10001 
+                          Talisman (R99-grade) - P. Atk. :                 8611 
+                                     Talisman - Hellfire :                 8864 
+                  Top-grade Magic Ornament Twilight Belt :                13199 
+                                            Undying Will :                 1917 
+                                               Vampirism :                10069 
+                                        Venir's Talisman :                18024 
+                                             Water Squad :                  612 
+                                         Weight Increase :                 1572 
+                                              Wind Squad :                  613 
+                                         Zaken's Earring :                 3559 
+■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■    MOBS INFO   ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+
+■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■    INV INFO    ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+
+                                         Adamantite Wire :      36543 
+                              Adventurer's Mark - Spirit :      17742 
+                                        Agathion - Fairy :      17380 
+                                      Agathion - Rudolph :      21709 
+                                      Amaranthine Cutter :      18961 
+                                   Amaranthine Dualsword :      30225 
+                                    Aria's Bracelet: STR :      38569 
+                                          Beast Soulshot :       6645 
+                          Beast Soulshot Compressed Pack :      10515 
+                                              Blaze Belt :      36190 
+                                Blessed Scroll of Escape :       1538 
+                     Blessed Scroll of Escape: Clan Hall :       5858 
+                      Blessed Scroll of Escape: Fortress :      10130 
+                          Blessed Scroll of Resurrection :       3936 
+                                Bound Mace of Underworld :      31303 
+                                  Bound Mysterious Sword :      31274 
+                                       Crystal (D-grade) :       1458 
+                                         Deadman's Staff :       4889 
+                                                 Diamond :      38892 
+                                   Draco's Health Potion :      35743 
+                                     Draco's Mana Potion :      35744 
+                                           Elcyum Powder :      36513 
+                                                 Emerald :      38882 
+                                   Energy Control Device :      17608 
+                                   Energy of Destruction :      35562 
+                               Enhanced Istina's Earring :      37511 
+                                  Enhanced Octavis' Ring :      37507 
+                          Enhanced Rose Necklace: Lekang :      20917 
+                 Enhanced Warrior's Quick Healing Potion :      37894 
+                                   Entrance Pass: Baylor :      45431 
+                                           Eternal Boots :      19574 
+                                     Eternal Breastplate :      19571 
+                                         Eternal Gaiters :      19572 
+                                       Eternal Gauntlets :      19573 
+                                          Eternal Helmet :      19570 
+                                          Eternal Shield :      19783 
+                            Festival's Cloak - Blood Red :      21587 
+                                               Fish Stew :      38226 
+                                    Frintezza's Necklace :       8191 
+                                      Gemstone (R-grade) :      19440 
+                           Healing Potion (Battleground) :      36309 
+                       High-grade Elixir of CP (R-grade) :      37099 
+                       La Vie En Rose's Brilliant Brooch :      38768 
+                                         Mask of Spirits :       8661 
+                 Mysterious Blessed Spiritshot (C-grade) :      22249 
+                 Mysterious Blessed Spiritshot (R-grade) :      22889 
+                        Mysterious Healthy Juice (HP/CP) :      37659 
+                           Mysterious Soulshot (R-grade) :      22888 
+                                                    Opal :      38876 
+                                              Party Mask :      38242 
+                                                   Pearl :      38897 
+                                        Queen Ant's Ring :       6660 
+                                            Rose Essence :      20904 
+                                        Scroll of Escape :        736 
+                                Scroll of Escape: Castle :       1830 
+                             Scroll of Escape: Clan Hall :       1829 
+                              Scroll of Escape: Fortress :      10129 
+              Scroll of Escape: Isle of Souls - Dystopia :      36082 
+                         Scroll: Enchant Armor (R-grade) :      17527 
+                                          Seal of Spirit :      17746 
+                                   Shiny Elemental Shirt :      37718 
+                                      Soulshot (R-grade) :      33780 
+                                               Soulstone :       1785 
+ Special Talisman (R99-grade) - Shield Defense (Passive) :      18500 
+                                              Spirit Ore :       3031 
+                                       Summoning Crystal :       8615 
+                                      Superior CP Potion :      38105 
+                                  Superior Giant's Codex :      30297 
+                Talisman (R99-grade) - P. Atk. (Passive) :      18414 
+                Talisman (R99-grade) - P. Atk. (Passive) :      18414 
+                                     Talisman - Hellfire :      34987 
+                  Top-grade Magic Ornament Twilight Belt :      32659 
+                  Top-grade Magic Ornament Twilight Belt :      32655 
+                          Turtle Ascetic Summon Necklace :      14064 
+                                        Venir's Talisman :      39643 
+                                            Warp Crystal :      39597 
+                                             Water Stone :       9547 
+                                          Wondrous Cubic :      10632 
+                                         Zaken's Earring :       6659 
+                                                   adena :         57 
+■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■    END INFO    ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+

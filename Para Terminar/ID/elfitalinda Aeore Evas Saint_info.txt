@@ -1,0 +1,126 @@
+■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■   USERS INFO   ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+
+			Character :          elfitalinda :     Aeore Evas Saint
+			Clan Name :                      :                    0
+■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■  PLAYERS INFO  ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+
+                          Loshata :           LifeIsLife :           1611661974  
+■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■  SKILL INFO A  ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+
+                                              Aeore Aura :                 1939  
+                           Agathion Cute Trick - Magmeld :                14288  
+                                            Balance Heal :                11762  
+                                    Blessed Resurrection :                11784  
+                                        Blessing of Saha :                11830  
+                                          Brilliant Heal :                11757  
+                                      Brilliant Recharge :                11761  
+                              Celestial Party Protection :                11759  
+                                    Celestial Protection :                11758  
+                                         Clarity of Saha :                11825  
+                                            Common Craft :                 1322  
+                                        Critical of Saha :                11821  
+                                    Crystal Regeneration :                11765  
+                                           Dark Backfire :                11769  
+                                              Dark Blast :                11766  
+                                             Dark Devour :                11780  
+                                              Dark Force :                11814  
+                                               Dark Rain :                11817  
+                                             Disparition :                 1912  
+                                                Dissolve :                11770  
+                                     Emblem of Salvation :                11826  
+                                            Erase Impact :                11831  
+                                           Fairy of Life :                11754  
+                                             Fatal Sleep :                11778  
+                                           Force of Saha :                11822  
+                                           Giant's Favor :                11772  
+                                        Magmeld Teleport :                14187  
+                                            Mark of Lumi :                11777  
+                                        Mass Cure Poison :                 1550  
+                                          Mass Dark Veil :                11767  
+                                        Mass Fatal Sleep :                11832  
+                                          Mass Mana Gain :                11852  
+                                              Panic Heal :                11756  
+                                      Party Resurrection :                11785  
+                                            Party Return :                11819  
+                                           Power of Saha :                11820  
+                                        Progressive Heal :                11828  
+                                            Radiant Heal :                11755  
+                                           Radiant Purge :                11763  
+                                        Radiant Recharge :                11760  
+                                                 Rebirth :                11768  
+                 Release Agathion's Seal - Magmeld Fairy :                 8527  
+                                      Resistance of Saha :                11824  
+                                           Seal Agathion :                 3267  
+                                           Speed of Saha :                11823  
+                                             Summon Lumi :                11776  
+                                     Summon Silver Saint :                 8607  
+                                     Summon Tree of Life :                11774  
+                                     Superior Inquisitor :                11746  
+                                                 Sustain :                11752  
+■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■  SKILL INFO P  ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+
+                                       Blessing of Water :                 1906 
+                                      Create Common Item :                 1320 
+                                             Crystallize :                  248 
+                                                Delicacy :                 1908 
+                                      Divine Inspiration :                 1405 
+                                             Expertise R :                  239 
+                                      Inventory Increase :                 1571 
+                                       Istina's Bracelet :                 8779 
+                                                   Lucky :                  194 
+                                     Superior Anti Magic :                11789 
+                                  Superior Armor Mastery :                11787 
+                                Superior Casting Mastery :                11788 
+                           Superior Elemental Resistance :                11790 
+                           Superior Magic Weapon Mastery :                11751 
+                       Superior Mental Attack Resistance :                11792 
+                                 Superior Quick Recovery :                11853 
+                                  Superior Sigil Mastery :                11791 
+                                            Undying Will :                 1917 
+                                         Weight Increase :                 1597 
+■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■    MOBS INFO   ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+
+■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■    INV INFO    ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+
+                             Adventurer's Mark - Loyalty :           1100691969 
+                              Adventurer's Mark - Pledge :           1096043840 
+                                        Agathion - Fairy :           1084404118 
+                                  Apprentice's Stockings :           1090595032 
+                                      Apprentice's Tunic :           1099042518 
+                            Blessed Spiritshot (R-grade) :           1099252399 
+                            Blessed Spiritshot (R-grade) :           1097397259 
+                                      Elixir of Blessing :           1092232780 
+                                   Energy of Destruction :           1095969480 
+                             Holy Pomander - Eva's Saint :           1099053800 
+                             Holy Pomander - Eva's Saint :           1093079939 
+                             Holy Pomander - Eva's Saint :           1088467701 
+                             Holy Pomander - Eva's Saint :           1092721155 
+                             Holy Pomander - Eva's Saint :           1098384259 
+                             Holy Pomander - Eva's Saint :           1097920086 
+                             Holy Pomander - Eva's Saint :           1093455093 
+                                        Immortal Circlet :           1092092036 
+                                        Immortal Earring :           1095563348 
+                                        Immortal Earring :           1096294926 
+                                         Immortal Gloves :           1095005500 
+                                       Immortal Necklace :           1092663798 
+                                           Immortal Ring :           1095573467 
+                                           Immortal Ring :           1087817635 
+                                          Immortal Shoes :           1096287302 
+                                          Immortal Sigil :           1093320538 
+                                      Immortal Stockings :           1087801657 
+                                          Immortal Tunic :           1096423235 
+                                       Istina's Bracelet :           1084404116 
+                                            Lakcis Cloak :           1099033039 
+                                        Mentee Headphone :           1092955743 
+                                        Mentee Headphone :           1098429875 
+                                           Mentee's Mark :           1095856624 
+                                     Mentoring Guidebook :           1084683903 
+                                          Requiem Caster :           1091353883 
+                                        Scroll of Escape :           1100675859 
+                Scroll of Escape: Talking Island Village :           1092008756 
+                                   Steel Door Guild Coin :           1094463379 
+                                     Toma's Living Guide :           1095825714 
+               Weapon Attribute Change Crystal (S-grade) :           1091630110 
+                                                   adena :           1097633519 
+■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■    END INFO    ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+

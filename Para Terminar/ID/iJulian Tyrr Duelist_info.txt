@@ -1,0 +1,392 @@
+■■■■■■■■■■■■■■■■■■■■■■■■■  Users Info  ■■■■■■■■■■■■■■■■■■■■■■■■■
+
+ Character:	                 iJulian :    Tyrr Duelist
+ Clan Name:	             JediMasterS : 1611661903
+■■■■■■■■■■■■■■■■■■■■■■■■■  Skill Info  ■■■■■■■■■■■■■■■■■■■■■■■■■
+
+                          Academy Precept :      19074  
+                        Armor Destruction :      10258  
+                                Berserker :      10274  
+                                    Boost :      10289  
+              Build Advanced Headquarters :        326  
+                             Common Craft :       1322  
+                              Disparition :       1912  
+                          Dual Maximum HP :       1986  
+                         Einhasad's Wrath :      13563  
+                                 Eruption :      10265  
+                                  Faceoff :      10320  
+                           Feral Bear Cry :      10291  
+                           Feral Ogre Cry :      10292  
+                           Feral Puma Cry :      10293  
+                         Feral Rabbit Cry :      10294  
+                          Force of Nature :      10276  
+                            Giant Barrier :      10279  
+                              Giant Punch :      10266  
+                                 Hawk Cry :      10295  
+                           Hurricane Rush :      10267  
+                          Infinity Strike :      10275  
+                              Jump Attack :      10269  
+                              Last Attack :      10300  
+                         Lightning Disarm :      10273  
+                              Mega Strike :      10260  
+                          Momentum Charge :      10280  
+                        Noblesse Blessing :       1323  
+                         Noblesse Harmony :       1326  
+                        Noblesse Symphony :       1327  
+                             Power Bomber :      10262  
+                            Power Provoke :      10271  
+                            Power Revival :      10298  
+                             Reduce Anger :      10278  
+        Release Agathion's Seal - Rudolph :      21245  
+                          Rolling Thunder :      10268  
+                            Seal Agathion :       3267  
+                              Second Wind :      10270  
+                              Sonic Flash :      10318  
+                               Sonic Rage :        345  
+                               Sonic Star :      10281  
+                              Sonic Storm :          7  
+                     Spirit of the Hunter :      10296  
+                     Spirit of the Slayer :      10297  
+                    Strider Siege Assault :        325  
+                       Summon Battle Scar :       8601  
+                         Summon CP Potion :       1324  
+                         Summon Lyn Draco :      19116  
+                    Transform Doll Blader :        674  
+                  Transform Dragon Bomber :        558  
+                        Transform Heretic :        670  
+                     Transform Onyx Beast :        617  
+              Transform Saber Tooth Tiger :        672  
+                       Triple Sonic Slash :        261  
+                                Tyrr Aura :       1929  
+                             Wyvern Aegis :        327  
+■■■■■■■■■■■■■■■■■■■■■■■■■  Player Info  ■■■■■■■■■■■■■■■■■■■■■■■■■
+
+              OrcOrcOrc :                ROK : 1611663868  
+         AlaniaTHEQueen :          EliteTeam : 1611661383  
+                   4Pro :                ROK : 1611663868  
+                 Roninz :         Presidents : 1611663063  
+                 Castom :     L4ughingC0ffin : 1611661330  
+                  Eoyin :        PowerGuardS : 1611662317  
+        DaenerysTormenT :         HeavyMetal : 1611661354  
+              PoorLilMi :          SuperRich : 1611663877  
+                 LiLi7H :                    :          0  
+              Ellesmyra :             DejaVu : 1611661571  
+               dankolov :     EmbracingWings : 1611661377  
+                  Tobby :            Prelude : 1611661400  
+            Archenstone :                    :          0  
+           killergodess :      JusticeLeague : 1611663305  
+              IWantMore :               Bank : 1611663808  
+             PintoMucho :         Crematorio : 1611662421  
+                 Herrig :             Africa : 1611661396  
+                 cccqws :                    :          0  
+         SynisterStoned :                    :          0  
+               Rorschak :       FuriousSteel : 1611662354  
+               ingus888 :                    :          0  
+               Harkonia :       DeadCanDance : 1611662908  
+               Cr3aTur3 :           Sunshine : 1611661856  
+                DelayEq :        AsianAvenue : 1611663763  
+               Komodino :      KARNNsRAIDERS : 1611663506  
+                lPridee :             Africa : 1611661396  
+            MarlboroB27 :                    :          0  
+             SanguiSuga :   ParcelyteAvatars : 1611661771  
+             vafuungooo :                KMA : 1611661355  
+              Smilimini :                    :          0  
+               Arthmiza :           Ethernal : 1611661352  
+              Akechi666 :     DarknessReborn : 1611661989  
+             mpourekaki :                    :          0  
+                Buddhha :                    :          0  
+             BeOwndSoon :                    :          0  
+              fetorfist :                    :          0  
+              Lemonface :           Misertus : 1611662805  
+             Lululemons :              Smurf : 1611663804  
+              TheSnatch :      RisingPhoenix : 1611661631  
+               EimaiEdw :          NecroTeam : 1611661382  
+         LittleHuntress :               Core : 1611662032  
+              Mwritrela :                    :          0  
+                Pyrieal :                KMA : 1611661355  
+              Pirouetta :          NecroTeam : 1611661382  
+            SystemShock :                KMA : 1611661355  
+               DrRaDDia :           iSkyfall : 1611662870  
+                DrRaDDi :           iSkyfall : 1611662870  
+              Coolwhite :         BlackRaven : 1611661381  
+                  Br3no :      OsJusticeiros : 1611662623  
+               Cazadorx :          FuriaElpy : 1611664186  
+            GlendaRaven :     DragonShadowII : 1611661444  
+                  Juliq :              abv14 : 1611663140  
+                  Druuk :                KMA : 1611661355  
+             LegionLord :                KMA : 1611661355  
+                 Cheeza :       LegionOfOdie : 1611663032  
+             L0rdMalaki :    Trinitrotoluene : 1611663824  
+              IceOlator :                    :          0  
+               EXSILION :       NightKillers : 1611661375  
+                 Iselle :   WretchedOutKasts : 1611661792  
+            ElteBufeaxD :                    :          0  
+                  xxayz :                    :          0  
+                 cJOJOc :                    :          0  
+            ViciosLatin :        ViciosLatin : 1611662547  
+                xRookie :          XXXmarket : 1611663395  
+                    e46 :          pershiyan : 1611661318  
+                o6opMoT :             Russos : 1611663396  
+                   KpoT :             Russos : 1611663396  
+                 BeDbMa :             Russos : 1611663396  
+        MeDcecTpAKJIaBa :             Russos : 1611663396  
+                  Ty134 :             Russos : 1611663396  
+               XxDumbxX :          BrainDead : 1611662994  
+                  S7ven :          lHogwarts : 1611662858  
+              SweetLusy :            Volcans : 1611662054  
+            TubbyCheeks :               Elpy : 1611663024  
+                  xFATx :             Russos : 1611663396  
+                  Bbadd :      RisingPhoenix : 1611661631  
+          LittleSnooper :                    :          0  
+                 Zuhayr :             Africa : 1611661396  
+                 iBorat :             Erebus : 1611663479  
+                 Uniqu3 :       FuriousSteel : 1611662354  
+                SoJiSub :                    :          0  
+                Miracor :                    :          0  
+         Purrfectionist :        WastedSpace : 1611661933  
+                  Hod0r :                    :          0  
+                 KocTuK :             Russos : 1611663396  
+                  MrTim :          SugarBear : 1611661663  
+           Macesaefimes :                Co1 : 1611662021  
+              TheTrader :           LionsDen : 1611662436  
+                 Jillia :           LionsDen : 1611662436  
+        Invulnerability :                    :          0  
+               iFinance :           LionsDen : 1611662436  
+               SmallLuv :           LionsDen : 1611662436  
+          PALIOSAVOURAS :            Volcans : 1611662054  
+               BoRaBoRa :                    :          0  
+                 CASDF2 :                    :          0  
+                kalipat :       TotalEclipse : 1611663198  
+                  Xfren :         HeavyMetal : 1611661354  
+            LunaGoddess :                    :          0  
+              DarkNinja :                    :          0  
+             PloyPaiRin :         GoldenFire : 1611662307  
+            StarCrystal :                    :          0  
+         DurrinIronhelm :       SiegeMachine : 1611663716  
+                711nana :            7Eleven : 1611664028  
+          IIMegalodonII :                    :          0  
+                711LULU :            7Eleven : 1611664028  
+            DeRevelator :       TheWayChurch : 1611662915  
+                 Kaenna :                    :          0  
+             NJdswyeure :                    :          0  
+                 Savior :         HeavyMetal : 1611661354  
+                 Grisha :         Adrenaline : 1611662069  
+               IssHechi :                TEG : 1611661349  
+                SnowIce :                    :          0  
+              CuteLilMe :            WeRCute : 1611663880  
+               LePewPew :               IPv6 : 1611662186  
+              ChromasIV :                    :          0  
+          HoodBizznitch :           Section8 : 1611663666  
+               NyoTengu :        ShadowGuild : 1611661583  
+            BrownSugarr :             NexGen : 1611663252  
+         NoOnePumpChump :      ClownPunchers : 1611663201  
+           CynthiaRaven :     DragonShadowII : 1611661444  
+          CynthiaDragon :     DragonShadowII : 1611661444  
+             DragonThor :       DragonShadow : 1611661438  
+                 DMking :      JusticeLeague : 1611663305  
+                iDealer :                    :          0  
+        PreciousMoments :                    :          0  
+              ICDynasty :                    :          0  
+             StoneGiant :         UrbanStyle : 1611662276  
+                 pooter :          FrostByte : 1611662965  
+             Helicopter :                    :          0  
+                   MuHu :          TradeClan : 1611663471  
+                  EvaGr :                    :          0  
+               lbabydum :                    :          0  
+        OOOChristinaOOO :      OsJusticeiros : 1611662623  
+                 Mujado :                    :          0  
+                 SushiQ :               BOSS : 1611661708  
+                  Junni :        RedBloodSea : 1611662247  
+               M0rmagil :               BOSS : 1611661708  
+               gasibusi :                    :          0  
+             sprklnDiva :     EmbracingWings : 1611661377  
+                Bibigon :                    :          0  
+                Malitia :      RisingPhoenix : 1611661631  
+              megadrive :       CutesTraders : 1611661391  
+                   Tkal :                KMA : 1611661355  
+             KnightDoom :                KMA : 1611661355  
+               Woodlock :                KMA : 1611661355  
+          VampireSlayer :      TheUnderworld : 1611661963  
+               TwoSpear :                KMA : 1611661355  
+                 Milfed :                KMA : 1611661355  
+         GrafeioTeletwn :            Coffins : 1611662269  
+                 Dasoto :                KMA : 1611661355  
+                 Cheech :      TheUnderworld : 1611661963  
+                  Kylce :   WretchedOutKasts : 1611661792  
+                  Guire :                KMA : 1611661355  
+              Wimberley :                KMA : 1611661355  
+               Tilaweed :                KMA : 1611661355  
+                Outkazt :                KMA : 1611661355  
+                Timmorn :                KMA : 1611661355  
+                  Faxxy :                KMA : 1611661355  
+               xOLifeOx :    llUndergroundll : 1611662292  
+               SLave101 :                    :          0  
+                  SlSTA :                    :          0  
+             LunarLight :         KatiMagiko : 1611662280  
+               xJolicee :              Id0ls : 1611663102  
+                   Uruu :      TheOpposition : 1611663539  
+        oXllExtremellXo :           Starfish : 1611662803  
+            Malificient :          OldKnight : 1611661379  
+          JohannesCabal :                    :          0  
+              NightSkye :      AncientWisdom : 1611662116  
+                Venovel :    TheUmbrellaCorp : 1611662340  
+                 CRYS1S :             Linaje : 1611661343  
+                 TidBit :      TheUnderworld : 1611661963  
+                xyunamx :                    :          0  
+              FuriouS13 :         Arg0nauteS : 1611661390  
+               Darkseid :   MercenariesUnite : 1611662851  
+                Achille :             Enmity : 1611661414  
+                 Amabel :         BraveHeart : 1611662919  
+                  Toxop :      TheUnderworld : 1611661963  
+              DirtyLucy :         Arg0nauteS : 1611661390  
+                 irisis :       AngelsofAden : 1611661832  
+                 ZypWat :           Exordium : 1611661880  
+        DestinyOfDragon :         KatiMagiko : 1611662280  
+               Drinkins :      InManaWeTrust : 1611663086  
+                  Ceiro :                    :          0  
+              JetLagPLS :   WretchedOutKasts : 1611661792  
+             OMEGALIGHT :      TheUnderworld : 1611661963  
+             Trixiebell :      AncientWisdom : 1611662116  
+                Vanelle :      AncientWisdom : 1611662116  
+               LoriAnne :           ChoPSuEy : 1611661357  
+                Asisyay :                    :          0  
+                Wulfric :      RescueRangers : 1611661655  
+                 Rayinn :     DarknessReborn : 1611661989  
+              Shakewind :                    :          0  
+                 Bounzy :      TheUnderworld : 1611661963  
+         xOlllLifelllOx :    llUndergroundll : 1611662292  
+                 Raeden :     EmbracingWings : 1611661377  
+                 Kandee :                    :          0  
+                  Newbe :             Enmity : 1611661414  
+                   flah :      AncientWisdom : 1611662116  
+         HeartOFdarknes :      AncientWisdom : 1611662116  
+       DauterOfDarkness :      AncientWisdom : 1611662116  
+                Zinthos :     LordsOfAnarchy : 1611661346  
+              Ingenieur :         WalmartInc : 1611662950  
+                  ZeeMe :      TheUnderworld : 1611661963  
+               FatBoobs :      KoreanFriends : 1611661340  
+              GiantPull :          TheCircle : 1611663233  
+               Giant0rc :       CutesTraders : 1611661391  
+               Winowill :                KMA : 1611661355  
+             GiantHeals :          TheCircle : 1611663233  
+                  Agite :         WalmartInc : 1611662950  
+               DirtNapp :             Enmity : 1611661414  
+                  Brew2 :   WretchedOutKasts : 1611661792  
+                EvryDaY :          Originals : 1611661334  
+              FlashToon :                    :          0  
+                   qek6 :                    :          0  
+              SeollaToo :      RescueRangers : 1611661655  
+           GspotTornado :           Symphony : 1611662130  
+                 Pahuni :           Symphony : 1611662130  
+              n0quarter :           Symphony : 1611662130  
+             TanomFlojo :          DeathWish : 1611661642  
+                Flojita :        InnerSphere : 1611661579  
+                birbilo :           Sweeties : 1611662219  
+                Rahkshi :   WretchedOutKasts : 1611661792  
+                kalipot :       TotalEclipse : 1611663198  
+       DarkAngelLucifer :               Core : 1611662032  
+          AfroditeChild :          ButterFly : 1611662670  
+             Pidiolitsa :             Danaoi : 1611661992  
+                  Cayme :            xBrasil : 1611661385  
+                    Wyk :            xBrasil : 1611661385  
+               Redwitch :         EpicHeroes : 1611661378  
+                 Petard :               Core : 1611662032  
+                 Steell :       AresSoldiers : 1611663220  
+■■■■■■■■■■■■■■■■■■■■■■■■■  Monster Info  ■■■■■■■■■■■■■■■■■■■■■■■■■
+
+        Small Draco Egg : 1277283059 
+■■■■■■■■■■■■■■■■■■■■■■■■■    Inv Info    ■■■■■■■■■■■■■■■■■■■■■■■■■
+
+                              Adventurer's Mark - Spirit : 1098224967 
+                                        Agathion - Fairy : 1100297015 
+                                 Agathion - Flame Spirit : 1093888473 
+                                      Agathion - Rudolph : 1100351667 
+                                      Amaranthine Cutter : 1095406673 
+                                   Amaranthine Dualsword : 1095172852 
+                                    Angel Cat's Blessing : 1097666513 
+                                    Angel Cat's Blessing : 1097281796 
+                                    Aria's Bracelet: STR : 1090243795 
+                                          Beast Soulshot : 1099316486 
+                          Beast Soulshot Compressed Pack : 1099678654 
+                                              Blaze Belt : 1096984413 
+                                Blessed Scroll of Escape : 1095610823 
+                     Blessed Scroll of Escape: Clan Hall : 1094127359 
+                      Blessed Scroll of Escape: Fortress : 1086499479 
+                          Blessed Scroll of Resurrection : 1097113058 
+                                Bound Mace of Underworld : 1098678324 
+                                  Bound Mysterious Sword : 1100467905 
+                                          Cloak of Light : 1085111532 
+                                       Crystal (D-grade) : 1096962487 
+                                                 Diamond : 1094483954 
+                                   Draco's Health Potion : 1096953620 
+                                     Draco's Mana Potion : 1097248179 
+                                   Durable Leather Braid : 1100359133 
+                                Elixir of Life (R-grade) : 1100494511 
+                                                 Emerald : 1098360594 
+                                   Energy Control Device : 1088266414 
+                                   Energy of Destruction : 1097325372 
+                               Enhanced Istina's Earring : 1095170915 
+                                  Enhanced Octavis' Ring : 1096145582 
+                          Enhanced Rose Necklace: Lekang : 1096045356 
+                 Enhanced Warrior's Quick Healing Potion : 1095126885 
+                                           Eternal Boots : 1082996798 
+                                     Eternal Breastplate : 1091192271 
+                                         Eternal Gaiters : 1093826046 
+                                       Eternal Gauntlets : 1097316834 
+                                          Eternal Helmet : 1095258158 
+                                          Eternal Shield : 1096180858 
+                            Festival's Cloak - Blood Red : 1091773237 
+                                               Fish Stew : 1100803817 
+                                    Frintezza's Necklace : 1090046344 
+                     High-grade Elixir of Life (R-grade) : 1100381010 
+                                      Knight's Epaulette : 1089281213 
+                       La Vie En Rose's Brilliant Brooch : 1097961576 
+                                         Mask of Spirits : 1099348883 
+                                         Memory Fragment : 1095474984 
+                 Mysterious Blessed Spiritshot (C-grade) : 1100564884 
+                 Mysterious Blessed Spiritshot (R-grade) : 1100519426 
+                           Mysterious Soulshot (R-grade) : 1096397377 
+                                                    Opal : 1098046462 
+                                              Party Mask : 1095861972 
+                                                   Pearl : 1098139604 
+                                        Queen Ant's Ring : 1091141050 
+                                            Rose Essence : 1100528578 
+                                        Scroll of Escape : 1094342003 
+                                Scroll of Escape: Castle : 1094935200 
+                             Scroll of Escape: Clan Hall : 1095857182 
+                              Scroll of Escape: Fortress : 1096857146 
+              Scroll of Escape: Isle of Souls - Dystopia : 1099481196 
+                                          Seal of Spirit : 1087909678 
+                                     Shattered Egg Shell : 1100554787 
+                                   Shiny Elemental Shirt : 1094402450 
+                                      Soulshot (R-grade) : 1098503015 
+                                               Soulstone : 1085996977 
+ Special Talisman (R99-grade) - Shield Defense (Passive) : 1097367461 
+ Special Talisman (R99-grade) - Shield Defense (Passive) : 1097306853 
+ Special Talisman (R99-grade) - Shield Defense (Passive) : 1100057025 
+ Special Talisman (R99-grade) - Shield Defense (Passive) : 1095224097 
+                                              Spirit Ore : 1099156712 
+                                       Summoning Crystal : 1093784340 
+                                      Superior CP Potion : 1091351713 
+         Talisman (R-grade) - P. Critical Rate (Passive) : 1100103640 
+         Talisman (R-grade) - P. Critical Rate (Passive) : 1093059047 
+        Talisman (R99-grade) - Critical Damage (Passive) : 1098188309 
+        Talisman (R99-grade) - Critical Damage (Passive) : 1099771703 
+        Talisman (R99-grade) - Critical Damage (Passive) : 1099233771 
+                Talisman (R99-grade) - P. Atk. (Passive) : 1097938934 
+                Talisman (R99-grade) - P. Atk. (Passive) : 1100009426 
+                Talisman (R99-grade) - P. Atk. (Passive) : 1093856067 
+                Talisman (R99-grade) - P. Atk. (Passive) : 1100198855 
+                Talisman (R99-grade) - P. Atk. (Passive) : 1100266955 
+                                     Talisman - Hellfire : 1096280916 
+                  Top-grade Magic Ornament Twilight Belt : 1087780744 
+                  Top-grade Magic Ornament Twilight Belt : 1089781692 
+                          Turtle Ascetic Summon Necklace : 1095850479 
+                                        Venir's Talisman : 1095871189 
+                                            Warp Crystal : 1087976743 
+                                             Water Stone : 1095884765 
+                                          Wondrous Cubic : 1099264880 
+                                         Zaken's Earring : 1098370526 
+                                                   adena : 1092058186 
+■■■■■■■■■■■■■■■■■■■■■■■■■    End Info    ■■■■■■■■■■■■■■■■■■■■■■■■■
+

@@ -1,0 +1,172 @@
+■■■■■■■■■■■■■■■■■■■■■■■■■  Users Info  ■■■■■■■■■■■■■■■■■■■■■■■■■
+
+ Character:	                Eruditio :  Aeore Cardinal
+ Clan Name:	             JediMasterS : 1611661903
+■■■■■■■■■■■■■■■■■■■■■■■■■  Skill Info  ■■■■■■■■■■■■■■■■■■■■■■■■■
+
+                               Aeore Aura :       1939  
+                             Balance Heal :      11762  
+                     Blessed Resurrection :      11784  
+                         Blessing of Saha :      11830  
+                           Brilliant Heal :      11757  
+                          Brilliant Purge :      11764  
+                       Brilliant Recharge :      11761  
+              Build Advanced Headquarters :        326  
+               Celestial Party Protection :      11759  
+                     Celestial Protection :      11758  
+                          Clarity of Saha :      11825  
+                             Common Craft :       1322  
+                         Critical of Saha :      11821  
+                     Crystal Regeneration :      11765  
+                            Dark Backfire :      11769  
+                               Dark Blast :      11766  
+                              Dark Devour :      11780  
+                               Dark Force :      11814  
+                                Dark Rain :      11817  
+                              Disparition :       1912  
+                                 Dissolve :      11770  
+                            Divine Prayer :      11851  
+                          Dual Maximum HP :       1986  
+                         Einhasad's Wrath :      13563  
+                      Emblem of Salvation :      11826  
+                             Erase Impact :      11831  
+                            Fairy of Life :      11754  
+                              Fatal Sleep :      11778  
+                            Force of Saha :      11822  
+                          Frantic Healing :      11782  
+                             Freya's Call :      21243  
+                            Giant's Favor :      11772  
+                              Lakcis Disc :      11773  
+                             Mark of Lumi :      11777  
+                           Mass Dark Veil :      11767  
+                         Mass Fatal Sleep :      11832  
+                Mentor's Knight's Harmony :       9376  
+               Mentor's Warrior's Harmony :       9378  
+                Mentor's Wizard's Harmony :       9377  
+                   Miraculous Benediction :      11850  
+                        Noblesse Blessing :       1323  
+                         Noblesse Harmony :       1326  
+                        Noblesse Symphony :       1327  
+                               Panic Heal :      11756  
+                       Party Resurrection :      11785  
+                             Party Return :      11819  
+                            Power of Saha :      11820  
+                         Progressive Heal :      11828  
+                       Purification Field :       1425  
+                             Radiant Heal :      11755  
+                            Radiant Purge :      11763  
+                         Radiant Recharge :      11760  
+                                  Rebirth :      11768  
+        Release Agathion's Seal - Rudolph :      21245  
+                                    Reset :      11783  
+                       Resistance of Saha :      11824  
+                            Seal Agathion :       3267  
+                            Speed of Saha :      11823  
+                    Strider Siege Assault :        325  
+                         Summon CP Potion :       1324  
+                              Summon Lumi :      11776  
+                      Summon Silver Saint :       8607  
+                      Summon Tree of Life :      11774  
+                      Superior Inquisitor :      11746  
+                                  Sustain :      11752  
+                             Wyvern Aegis :        327  
+■■■■■■■■■■■■■■■■■■■■■■■■■  Player Info  ■■■■■■■■■■■■■■■■■■■■■■■■■
+
+                    X0r :                    :          0  
+           SuperMiracle :      SerialKillerz : 1611662568  
+                Marinda :            Camelot : 1611661900  
+               Corbenik :           NovaVita : 1611661348  
+              SwordEdge :           NovaVita : 1611661348  
+               Tyrranos :           NovaVita : 1611661348  
+               Adderall :               BOSS : 1611661708  
+               MsPrissy :      ClownPunchers : 1611663201  
+                  T0WH0 :     TheBrokenArrow : 1611661881  
+                Krizald :             Africa : 1611661396  
+                  Kikko :      TheUnderworld : 1611661963  
+                   Vorr :         BloodyPack : 1611661594  
+              eudoraboy :               KLDM : 1611663560  
+                iSitter :        JustMyStuff : 1611663338  
+                  Sodio :                    :          0  
+               OneTrade :           LionsDen : 1611662436  
+           weaponleader :             Raider : 1611663793  
+                 Neddah :                    :          0  
+              LoveGame2 :                    :          0  
+               Arcang3l :       FuriousSteel : 1611662354  
+               Airthere :    OrderOfTheArrow : 1611663008  
+■■■■■■■■■■■■■■■■■■■■■■■■■  Monster Info  ■■■■■■■■■■■■■■■■■■■■■■■■■
+
+           Robust Ratel : 1328560996 
+■■■■■■■■■■■■■■■■■■■■■■■■■    Inv Info    ■■■■■■■■■■■■■■■■■■■■■■■■■
+
+                             Adventurer's Mark - Loyalty : 1099589488 
+                              Adventurer's Mark - Spirit : 1105816731 
+                                        Agathion - Fairy : 1108017786 
+                                 Agathion - Flame Spirit : 1102682051 
+                                      Agathion - Rudolph : 1095959752 
+                                              Aquamarine : 1112630074 
+                                    Aria's Bracelet: WIT : 1105282673 
+                           Basic Talisman - Casting Spd. : 1112582528 
+                                          Beast Soulshot : 1094028161 
+                                   Birthday Present Pack : 1097457720 
+                                Blessed Freya's Necklace : 1112841356 
+                     Blessed Scroll of Escape: Clan Hall : 1113070072 
+                            Blessed Spiritshot (R-grade) : 1104855760 
+                                 Bottle of Istina's Soul : 1101142111 
+                                  Bound Twilight Earring : 1102181442 
+                              Charm of Courage (R-grade) : 1113232051 
+                                          Cloak of Freya : 1108699456 
+                                   Draco's Health Potion : 1098324012 
+                                     Draco's Mana Potion : 1093992740 
+                                      Elixir of Blessing : 1101590485 
+                                   Energy of Destruction : 1098474650 
+                                   Entrance Pass: Baylor : 1101672224 
+                                         Eternal Circlet : 1106514214 
+                                         Eternal Earring : 1104973169 
+                                          Eternal Gloves : 1100508562 
+                                            Eternal Ring : 1108777571 
+                                            Eternal Ring : 1111940750 
+                                          Eternal Shield : 1112776226 
+                                           Eternal Shoes : 1106525126 
+                                       Eternal Stockings : 1102454131 
+                                           Eternal Tunic : 1107637291 
+                                     Fantasy Mana Potion : 1098001844 
+                                               Fish Stew : 1112814605 
+                             Frightening Memory Fragment : 1094353599 
+                                       Heavenly Cocktail : 1100322622 
+                       High-grade Elixir of CP (R-grade) : 1099387908 
+                     High-grade Elixir of Mind (R-grade) : 1108614538 
+                                  Infinite Wooden Quiver : 1108765323 
+                                 La Vie En Rose's Brooch : 1103204652 
+                                         Luxury Cocktail : 1110992354 
+                        Mysterious Healthy Juice (HP/CP) : 1108155634 
+              Mysterious Spiritshot Small Pack (R-grade) : 1102637064 
+                                    Orfen's Soul Earring : 1110573492 
+                                              Party Mask : 1102224710 
+                       Rune of Bountiful Growth (30-day) : 1098070011 
+                                            Santa's Mark : 1114245822 
+                                                Sapphire : 1113986905 
+                                        Scroll of Escape : 1094141192 
+                                Scroll of Escape: Castle : 1112165645 
+                             Scroll of Escape: Clan Hall : 1098274581 
+              Scroll of Escape: Isle of Souls - Dystopia : 1110032279 
+                                  Scroll of Resurrection : 1096895552 
+                                       Seal of Sincerity : 1094371952 
+                                          Seal of Spirit : 1100597765 
+                                   Shiny Elemental Shirt : 1111125647 
+   Special Talisman (R99-grade) - Enhance Heal (Passive) : 1101838161 
+   Special Talisman (R99-grade) - Enhance Heal (Passive) : 1103797987 
+                                          Specter Caster : 1109488199 
+                                              Spirit Ore : 1106914035 
+                                       Summoning Crystal : 1108511344 
+         Talisman (R-grade) - Critical Evasion (Passive) : 1101779974 
+                                     Talisman - Hellfire : 1111318145 
+                  Top-grade Magic Ornament Twilight Belt : 1104710050 
+                          Turtle Ascetic Summon Necklace : 1110812972 
+                                        Venir's Talisman : 1113055901 
+                                            Warp Crystal : 1109150522 
+                               Warrior's Quick CP Potion : 1103378385 
+                          Warrior's Quick Healing Potion : 1100792560 
+                                          Wondrous Cubic : 1101779986 
+                                                   adena : 1107653630 
+■■■■■■■■■■■■■■■■■■■■■■■■■    End Info    ■■■■■■■■■■■■■■■■■■■■■■■■■
+
